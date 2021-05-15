@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=KoHo&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    color: white;
+    font-family: KoHo;
+    text-align: center;
+}
+
+h1 {
+    margin-top: 20vh;
+    font-size: 20vh;
+    line-height: 20vh;
+}
+
+h2 {
+    margin-top: -10vh;
+    font-size: 4vh;
+    line-height: 4vh;
+    margin-bottom: 15vh;
+}
+
+.p1 {
+    font-size: 6vh;
+    line-height: 6vh;
+}
+
+.p2 {
+    font-size: 30vh;
+    line-height: 30vh;
+    color: yellow;
+    opacity: 0.2;
+    margin-top: -30vh;
+}
